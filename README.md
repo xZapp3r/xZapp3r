@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development, Data Science, Analytics, Deploy, Security, Back-end
 - 🌱 I’m currently learning Data Analytics, and focus on Computer Mathmatics
 - 💞️ I’m looking to collaborate on products, for clients and open-source
-- 📫 How to reach me +55 31 97172-6500, zappertec@gmail.com
+- 📫 How to reach me +55 31 99850-3212, zappertec@gmail.com
 
 Data everywhere
 <!---
